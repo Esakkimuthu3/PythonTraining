@@ -1,0 +1,9 @@
+App Started da parathesi
+Start
+Processed Email: {'username': 'marimuthuvillas', 'domain': 'gmail.com'}
+End
+Start
+Invalid Email received: {email}
+Start
+Invalid Email received: {email}
+End
